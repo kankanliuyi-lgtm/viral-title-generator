@@ -6,6 +6,12 @@
 
 **作者：** [运营老李搞AI](https://x.com/kankan916033)
 
+**在线试用（无需安装、无需 API Key）：**
+
+[![在 Socialistic 上试用 viral-title-generator](https://socialistic.ai/api/embed/viral-title-generator-6b64b4)](https://socialistic.ai/zh/skill/viral-title-generator-6b64b4?utm_source=github&utm_medium=readme&utm_campaign=20260524-copywriting-doctor-skills&utm_content=badge)
+
+点一下就能直接丢主题或现有标题进去，平台承担 API/模型成本。下方 12 套路表格里看到的任意配方，都可以即刻在浏览器里跑一条试试。
+
 ---
 
 ## 这是什么？
